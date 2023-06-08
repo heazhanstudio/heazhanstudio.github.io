@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Heazhan Studio"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Heazhan"
-description              : "Hi, I develop games that feature cute anime girls. Please be aware that games contain negative or cruel contents."
+name                     : "Heazhan Studio"
+description              : "Heazhan's website for uploading videos."
 url                      : "https://heazhanstudio.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Heazhan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "Hi, I develop games that feature cute anime girls. Please be aware that games contain negative or cruel contents."
   location         : "Somewhere"
   email            :
   links:
